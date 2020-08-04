@@ -4,7 +4,7 @@ import time
 import os
 import json
 from googletrans import Translator
-
+import numpu
 class OpenWeatherApi:
 
     __APPID = "b6731c567cf35bb7de231f7ccaab085c"
